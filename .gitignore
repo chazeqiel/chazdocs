@@ -1,0 +1,20 @@
+# Gradle & Kotlin
+.gradle/
+.kotlin/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local environment & signing keys
+local.properties
+*.jks
+*.keystore
+
+# IDE & OS metadata
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+captures/
+.externalNativeBuild/
+.cxx/

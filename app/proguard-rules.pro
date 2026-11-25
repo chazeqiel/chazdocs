@@ -1,0 +1,2 @@
+-keep class com.chazdocs.wear.** { *; }
+-dontwarn java.awt.**
